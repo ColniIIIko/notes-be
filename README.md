@@ -1,4 +1,4 @@
-# Notes App with Authentication(Front-end)
+# Notes App with Authentication(Back-end)
 
 Build with Typescript, Express, Mongoose. \
 API for [link](https://github.com/ColniIIIko/notes-fe)\
